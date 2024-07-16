@@ -118,7 +118,8 @@ To create a public link, set `share=True` in `launch()`.
 
 ### 以下为在本地机器做端口映射的步骤
 
-#### 1. 端口映射
+#### 1. [端口映射](https://github.com/Kyeoni/ShellStudy/blob/port-forwarding-2024-07-15/Internet/%E7%AB%AF%E5%8F%A3%E6%98%A0%E5%B0%84.md)
+
 由于远程开发机所起的服务我们无法在外网进行访问，因为不知道但是我们又希望
 ```shell
 $ ssh -p 42168 root@ssh.intern-ai.org.cn -CNg -L {本地机器_PORT}:127.0.0.1:{开发机_PORT} -o StrictHostKeyChecking=no
