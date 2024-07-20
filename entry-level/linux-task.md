@@ -23,7 +23,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCwbu8EtN4bv0iQAslHyoxoIaseunj+PZZjtlf9McdF
 
 将密钥粘贴至网站进行配置
 
-### 2. 使用VScode进行SSH远程连接
+### <a name="vscode-ssh-connect">2. 使用VScode进行SSH远程连接</a>
 
 1. 打开VScode，点击左下角图标，选择SSH Remote，安装
 ![alt text](./images/ssh-plugin.png)
