@@ -163,4 +163,4 @@ $ python -m debugpy --listen5678 --wait-for-client ./demo/word_count.py
 
 可以开始debug了，完成。
 
-![alt text](./image/python-debug-done.png)
+![alt text](./images/python-debug-done.png)
